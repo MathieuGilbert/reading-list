@@ -90,7 +90,7 @@
 ### Leadership
 - Becoming a Technical Leader: An Organic Problem-Solving Approach - Gerald M. Weinberg
 
-###Career
+### Career
 - Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman - Hoover, Oshineye
 - Soft Skills: The software developer's life manual - John Sonmez
 - The Software Craftsman: Professionalism, Pragmatism, Pride - Sandro Mancuso
