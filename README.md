@@ -23,7 +23,7 @@
 ## Design
 
 ### Code Design
-- Clean Code - Robert C. Martin
+- Clean Code - Robert C. Martin (464 pages)
 - **The Clean Coder - Robert C. Martin** (256 pages)
 - **Code Complete - Steve McConnell** (960 pages)
 - **The Pragmatic Programmer - Hunt, Thomas** (352 pages)
@@ -94,4 +94,3 @@
 - Soft Skills: The software developer's life manual - John Sonmez
 - The Software Craftsman: Professionalism, Pragmatism, Pride - Sandro Mancuso
 - The Complete Software Developer's Career Guide - John Sonmez
-
