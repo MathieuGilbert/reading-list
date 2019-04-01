@@ -5,7 +5,7 @@
 ### Coding
 - Grokking Algorithms - Aditya Y. Bhargava
 - Introduction to Algorithms - Cormen, Leiserson, Rivest, Stein
-- **Structure and Interpretation of Computer Programs - Abelson, Sussman**
+- Structure and Interpretation of Computer Programs - Abelson, Sussman
 - [Eloquent JavaScript](http://eloquentjavascript.net) - Marijn Haverbeke
 - Javascript: The Good Parts - Douglas Crockford
 - Seven Languages in Seven Weeks - Bruce A. Tate
@@ -13,47 +13,46 @@
 - Go Programming Blueprints - Mat Ryer
 
 ### TDD
-- **Growing Object-Oriented Software, Guided by Tests - Steve Freeman**
+- **Growing Object-Oriented Software, Guided by Tests - Steve Freeman** (384 pages)
 - Test-Driven Development By Example - Kent Beck
 
 ### Refactoring
 - Refactoring to Patterns - Joshua Kerievsky
-- **Refactoring - Improving the Design of Existing Code - Martin Fowler**
+- **Refactoring - Improving the Design of Existing Code - Martin Fowler** (464 pages)
 
 ## Design
 
 ### Code Design
-- **Clean Code - Robert C. Martin**
-- **Code Complete - Steve McConnell**
-- **The Pragmatic Programmer - Hunt, Thomas**
-- The Clean Coder - Robert C. Martin
+- Clean Code - Robert C. Martin
+- **The Clean Coder - Robert C. Martin** (256 pages)
+- **Code Complete - Steve McConnell** (960 pages)
+- **The Pragmatic Programmer - Hunt, Thomas** (352 pages)
 
 ### Object Oriented
-- Practical Object Oriented Design in Ruby - Sandy Metz
+- **Practical Object Oriented Design in Ruby - Sandy Metz** (272 pages)
 - Object Design - Wirfs-Brock, McKean
-- Object Thinking
-- Applying UML and Patterns
-- Head First Design Patterns - Sierra, Freeman
-- *Design Patterns: Elements of Reusable Object-Oriented Software - Gamma, Helm, Johnson, Vlissides
+- Applying UML and Patterns - Craig Larman
+- **Head First Design Patterns - Sierra, Freeman** (694 pages)
+- Design Patterns: Elements of Reusable Object-Oriented Software - Gamma, Helm, Johnson, Vlissides
 - Agile Software Development, Principles, Patterns, and Practices - Robert C. Martin
 
 ### Domain Design
 - Domain Driven Design - Eric Evans
 
 ### System Design
-- **Patterns of Enterprise Application Architecture - Martin Fowler**
+- **Patterns of Enterprise Application Architecture - Martin Fowler** (560 pages)
 - Software Systems Architecture - Rozanski, Woods
 - Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions - Hohpe, Woolf
-- Clean Architecture - Robert C. Martin
+- **Clean Architecture - Robert C. Martin** (432 pages)
 
 ### Availability
 - Release It! - Michael T. Nygard
 
 ### Security
-- Foundations of Security -  Kern, Kesavan, Daswani
+- **Foundations of Security -  Kern, Kesavan, Daswani** (292 pages)
 
 ### Legacy
-- **Working Effectively with Legacy Code - Michael Feathers**
+- **Working Effectively with Legacy Code - Michael Feathers** (464 pages)
 
 ### UX
 - Designing Interfaces - Jenifer Tidwell
@@ -66,9 +65,9 @@
 
 ### Agile
 - Essential Scrum - Kenneth S. Rubin
-- **Peopleware: Productive Projects and Teams - DeMarco, Lister**
+- **Peopleware: Productive Projects and Teams - DeMarco, Lister** (264 pages)
 - Extreme Programming Explained - Beck, Andres
-- **The Mythical Man-Month - Fred Brooks**
+- **The Mythical Man-Month - Fred Brooks** (336 pages)
 
 ### Requirements 
 - User Stories Applied - Mike Cohn
@@ -91,7 +90,7 @@
 - Becoming a Technical Leader: An Organic Problem-Solving Approach - Gerald M. Weinberg
 
 ### Career
-- Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman - Hoover, Oshineye
+- **Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman - Hoover, Oshineye** (168 pages)
 - Soft Skills: The software developer's life manual - John Sonmez
 - The Software Craftsman: Professionalism, Pragmatism, Pride - Sandro Mancuso
 - The Complete Software Developer's Career Guide - John Sonmez
